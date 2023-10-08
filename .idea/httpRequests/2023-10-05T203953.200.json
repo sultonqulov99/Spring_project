@@ -1,0 +1,6 @@
+{
+  "message": "Could not open JPA EntityManager for transaction",
+  "isSuccess": false,
+  "object": null,
+  "status": 409
+}

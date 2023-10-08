@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "createdAt": null,
+    "updatedAt": null,
+    "name": "FOUNDATION"
+  },
+  {
+    "id": 2,
+    "createdAt": null,
+    "updatedAt": null,
+    "name": "FRONT END"
+  },
+  {
+    "id": 3,
+    "createdAt": null,
+    "updatedAt": null,
+    "name": "BACK END"
+  }
+]

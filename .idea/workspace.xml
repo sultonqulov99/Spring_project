@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18083df3-8d8e-46e3-8f91-52ebbaf30c7b" name="Changes" comment="tugadi">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccf6f279-5aeb-4215-8e96-eb85db8bd8db.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccf6f279-5aeb-4215-8e96-eb85db8bd8db/storage_v2/_src_/database/hottlbuc.y1DV7w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccf6f279-5aeb-4215-8e96-eb85db8bd8db/storage_v2/_src_/database/hottlbuc.y1DV7w/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccf6f279-5aeb-4215-8e96-eb85db8bd8db/storage_v2/_src_/database/hottlbuc.y1DV7w/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccf6f279-5aeb-4215-8e96-eb85db8bd8db/storage_v2/_src_/database/hottlbuc.y1DV7w/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ccf6f279-5aeb-4215-8e96-eb85db8bd8db/storage_v2/_src_/database/hottlbuc.y1DV7w/schema/public.abK9xQ.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/data/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/iqitlive-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/iqitlive-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/iqitlive-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/iqitlive-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2VcRGNPzZqCW5HXtjjvTrsvtVQj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/iqgame/iqitlive/src/main/java/uz/iq/iqgame/controller&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;5a562d91746a62c20b7af159dc1d492f&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="uz.iq.iqgame.exception" />
+      <recent name="uz.iq.iqgame.service" />
+      <recent name="uz.iq.iqgame.mapper" />
+      <recent name="uz.iq.iqgame.payload" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\iqgame\iqitlive\src\main\java\uz\iq\iqgame\controller" />
+      <recent name="C:\Users\user\Desktop\iqgame\iqitlive\src\main\java\uz\iq\iqgame\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="uz.iq.iqgame.service.impl" />
+      <recent name="uz.iq.iqgame.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IqgameApplication">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #21" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="21" requestIdentifier="#21" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #25" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="25" requestIdentifier="#25" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #26" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="26" requestIdentifier="#26" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #30" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="30" requestIdentifier="#30" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="IqgameApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="iqitlive" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.iq.iqgame.IqgameApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #30" />
+        <item itemvalue="HTTP Request.generated-requests | #26" />
+        <item itemvalue="HTTP Request.generated-requests | #25" />
+        <item itemvalue="HTTP Request.generated-requests | #21" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18083df3-8d8e-46e3-8f91-52ebbaf30c7b" name="Changes" comment="" />
+      <created>1695133289322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695133289322</updated>
+      <workItem from="1695133294003" duration="1799000" />
+      <workItem from="1695135627332" duration="21000" />
+      <workItem from="1695135668862" duration="61000" />
+      <workItem from="1695137241988" duration="1790000" />
+      <workItem from="1695179868979" duration="5578000" />
+      <workItem from="1695186184845" duration="2688000" />
+      <workItem from="1695189879375" duration="161000" />
+      <workItem from="1695191131861" duration="139000" />
+      <workItem from="1695215285876" duration="317000" />
+      <workItem from="1695215674370" duration="374000" />
+      <workItem from="1695218013005" duration="2020000" />
+      <workItem from="1695296056289" duration="2065000" />
+      <workItem from="1695298254201" duration="355000" />
+      <workItem from="1695302831375" duration="2634000" />
+      <workItem from="1695355607010" duration="28114000" />
+      <workItem from="1695439981678" duration="10380000" />
+      <workItem from="1695454866016" duration="774000" />
+      <workItem from="1695465699176" duration="4438000" />
+      <workItem from="1695959248365" duration="12123000" />
+      <workItem from="1695971803504" duration="49000" />
+      <workItem from="1695972158254" duration="13000" />
+      <workItem from="1695972378116" duration="794000" />
+      <workItem from="1695978116201" duration="427000" />
+      <workItem from="1696516231467" duration="1205000" />
+      <workItem from="1696562075414" duration="5560000" />
+      <workItem from="1696586903074" duration="48000" />
+      <workItem from="1696597198315" duration="3542000" />
+      <workItem from="1696655081608" duration="9432000" />
+      <workItem from="1696665515639" duration="429000" />
+      <workItem from="1696667365593" duration="4000" />
+      <workItem from="1696669742167" duration="314000" />
+    </task>
+    <task id="LOCAL-00001" summary="tugadi">
+      <option name="closed" value="true" />
+      <created>1695215391799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695215391799</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tugadiye" />
+    <MESSAGE value="tugadi" />
+    <option name="LAST_COMMIT_MESSAGE" value="tugadi" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/uz/iq/iqgame/mapper/UserOwnDataMapper.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,434 @@
+GET http://localhost:8080/api/v1/group/getAllGroups
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-07T021143.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-07T002239.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getAllStatusByGroupId/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-07T002226.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-06T232438.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-06T232429.404.json
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 132
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name": "Abdulaziz" ,
+  "surname": "omonov",
+  "email": "abdulaziomonov4@gmail.com",
+  "status" : 1,
+  "password": "omonov2006"
+
+}
+
+<> 2023-10-06T220903.201.json
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 136
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name": "Abdulaziz" ,
+  "surname": "omonov",
+  "email": "omonov2006omonov@gmail.com",
+  "status" : 1,
+  "password": "omonov2006"
+
+}
+
+
+
+<> 2023-10-06T220850.409.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getAllStatusByGroupId/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-06T220826.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getAllStatusByGroupId/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-06T220807.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getAllStatusByGroupId/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-06T065850.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getAllStatusByGroupId/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/api/v1/group/getAllGroups
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-06T065806.200.json
+
+###
+
+GET http://localhost:8080/api/v1/group/getAllGroups
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 133
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+"name": "Abdulaziz" ,
+  "surname": "omonov",
+  "email": "omonov2006omonov@gmail.com",
+  "status" : 1,
+  "password": "omonov2006"
+
+}
+
+<> 2023-10-06T065503.201.json
+
+###
+
+GET http://localhost:8080/api/v1/auth/admindashboard
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "omonov2006omonov@gmail.com",
+  "password": "omonov2006"
+}
+
+<> 2023-10-05T211157.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T205106.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T204316.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T203953.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T203331.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T202728.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-10-05T202718.404.json
+
+###
+
+GET http://localhost:8080/api/v1/auth/admindashboard
+Content-Type: application/json
+Content-Length: 73
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "omonov2006omonov@gmail.com",
+  "password": "omonov2006"
+}
+
+
+<> 2023-10-05T073902.403.json
+
+###
+
+GET http://64.226.120.51:8080/api/v1/auth/admindashboard
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "omonov2006omonov@gmail.com",
+  "password": "omonov2006"
+}
+
+<> 2023-10-05T073459.200.json
+
+###
+
+GET http://localhost:8080/api/v1/auth/admindashboard
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "omonov2006omonov@gmail.com",
+  "password": "omonov2006"
+}
+
+<> 2023-10-05T073308.200.json
+
+###
+
+GET http://localhost:8080/api/v1/status/getStatus
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-09-19T202444.200.json
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 117
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "status":1,
+  "password":"omonov2006",
+  "surname":"omnov",
+  "email":"azizovo@gmail.com",
+  "name":"Abdulaziz"
+}
+
+<> 2023-09-19T085435.200.json
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 117
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "status":1,
+  "password":"omonov2006",
+  "surname":"omnov",
+  "email":"azizovo@gmail.com",
+  "name":"Abdulaziz"
+}
+
+<> 2023-09-19T085421.200.json
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 117
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "status":1,
+  "password":"omonov2006",
+  "surname":"omnov",
+  "email":"azizovo@gmail.com",
+  "name":"Abdulaziz"
+}
+
+<> 2023-09-19T085323.201.json
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 117
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "status":1,
+  "password":"omonov2006",
+  "surname":"omnov",
+  "email":"azizovo@gmail.com",
+  "name":"Abdulaziz"
+}
+
+<> 2023-09-19T085242.404.json
+
+###
+
+POST http://localhost:8080/api/v1/auth/register
+Content-Type: application/json
+Content-Length: 119
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name":"Abdulaziz",
+  "status":1,
+  "password":"omonov2006",
+  "surname":"omonov",
+  "email":"omonov@gmail.com"
+}
+
+
+<> 2023-09-19T062341.201.json
+
+###
+
+GET http://localhost:8080/api/v1/auth/admindashboard
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DBFE1B33BD112FC206B5385393FB5129
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "email": "omonov2006omonov@gmail.com",
+  "password": "omonov2006"
+}
+
+<> 2023-09-19T062152.200.json
+
+###
+
+GET http://localhost:8080/api/v1/auth/admindashboard
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
